@@ -1,0 +1,8 @@
+.main-page{
+    background-image: url(../../images/Digital_risks-white-paper-image_flipped-scaled.jpg);
+    background-repeat: no-repeat;
+    position: relative;
+    min-height: 890px;
+    box-sizing: border-box;
+    padding-top: 100px;
+}
