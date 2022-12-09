@@ -1,0 +1,15 @@
+.button {
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    margin-right: 150px;
+    font-size: 38px;
+    margin: auto;
+    background-color: gray;
+    border: none;
+    height: 80px;
+}
+
+.button:hover {
+    background-color: black; /* Green */
+    color: white;
+}
