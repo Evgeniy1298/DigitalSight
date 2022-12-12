@@ -1,0 +1,14 @@
+.feedback{
+    display: flex;
+    box-sizing: border-box;
+    color: white;
+    background-color: black;
+    padding: 25px 0 40px;
+    height: 350px;
+}
+
+@media screen and (max-width: 425px) {
+    .feedback{
+        margin-top: 109%;
+    }
+}

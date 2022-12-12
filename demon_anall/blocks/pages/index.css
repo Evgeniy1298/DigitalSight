@@ -1,0 +1,61 @@
+@import url(../vendor/normalize.css);
+@import url(../page/page.css);
+
+@import url(../header/header.css);
+@import url(../header/__title/header__title.css);
+@import url(../buttons/buttons.css);
+@import url(../buttons/button/button.css);
+@import url(../main-page/main-page.css);
+@import url(../main-page/__title/main-page__title.css);
+@import url(../main-page/__subtitle/main-page__subtitle.css);
+@import url(../main-info/main-info.css);
+@import url(../main-info/__title/main-info__title.css);
+@import url(../main-info/__subtitle/main-info__subtitle.css);
+@import url(../main-info/__text/main-info__text.css);
+@import url(../table/table.css);
+@import url(../table/__cell/table__cell.css);
+@import url(../table/__pic/table__pic.css);
+@import url(../table/__title/table__title.css);
+@import url(../table/__text/table__text.css);
+@import url(../about-test/about-test.css);
+@import url(../about-test/about-test__title/about-test__title.css);
+@import url(../about-test/about-test__text/about-test__text.css);
+@import url(../about-test/__nigger/about-test__nigger.css);
+@import url(../about-test/about-test__button/about-test__button.css);
+@import url(../video/video.css);
+@import url(../video/__subtitle/video__subtitle.css);
+@import url(../video/__iframes/video__iframes.css);
+@import url(../video/__iframe/video__iframe.css);
+@import url(../video/__text/video__text.css);
+@import url(../news/news.css);
+@import url(../news/__title/news__title.css);
+@import url(../news/__subtitle/news__subtitle.css);
+@import url(../news/_table/news_table.css);
+@import url(../news/_table/__cell/);
+@import url(../news/_table/__pic/news_table__pic.css);
+@import url(../news/_table/__text/news_table__text.css);
+@import url(../news/_table/__buttons/news_table__buttons.css);
+@import url(../news/_table/__button/news_table__button.css);
+@import url(../footer/footer.css);
+@import url(../footer/__text/footer__text.css);
+@import url(../footer/__authors/footer__authors.css);
+
+
+@import url(../test/test.css);
+@import url(../test/__title/test__title.css);
+@import url(../test/__text/test__text.css);
+@import url(../gay/gay.css);
+@import url(../gay/__image/gay__image.css);
+
+
+@import url(../contacts/contacts.css);
+@import url(../contacts/__title/contacts__title.css);
+@import url(../contacts/__text/contacts__text.css);
+@import url(../contacts/__iframes/contacts__iframes.css);
+@import url(../contacts/__iframe/contacts__iframe.css);
+@import url(../feedback/feedback.css);
+@import url(../feedback/__columns/feedback__columns.css);
+@import url(../feedback/__column/feedback__column-heading.css);
+@import url(../feedback/__column/feedback__column-links.css);
+@import url(../feedback/__column/feedback__column-link.css);
+@import url(../feedback/__column/feedback__social-icon.css);
