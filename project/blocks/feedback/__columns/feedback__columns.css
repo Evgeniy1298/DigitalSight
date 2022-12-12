@@ -1,8 +1,0 @@
-.feedback__columns {
-    box-sizing: border-box;
-    background-color: black;
-    justify-content: space-between;
-    display: flex;
-    margin: 15px auto;
-    width: 90%;
-  }
